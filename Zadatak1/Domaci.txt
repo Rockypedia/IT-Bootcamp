@@ -1,0 +1,3 @@
+Rzlika commit i merge komande je :
+commit koristimo za komitovanje svih spremljnih izmena
+a merge koristimo za spajanje novonapravljene grane na master granu
